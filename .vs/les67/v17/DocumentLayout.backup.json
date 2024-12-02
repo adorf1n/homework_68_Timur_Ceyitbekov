@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\les68\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDE027D-EA11-4EF0-8A9B-37A065C91083}|les67\\les67.csproj|c:\\users\\ad0rfin\\desktop\\c# \u043A\u0443\u0440\u0441\\les68\\les67\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDE027D-EA11-4EF0-8A9B-37A065C91083}|les67\\les67.csproj|solutionrelative:les67\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0DFEA3-E4F4-4B23-A315-9D9DD0D0C007}|les67.Tests\\les67.Tests.csproj|c:\\users\\ad0rfin\\desktop\\c# \u043A\u0443\u0440\u0441\\les68\\les67.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0DFEA3-E4F4-4B23-A315-9D9DD0D0C007}|les67.Tests\\les67.Tests.csproj|solutionrelative:les67.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDE027D-EA11-4EF0-8A9B-37A065C91083}|les67\\les67.csproj|c:\\users\\ad0rfin\\desktop\\c# \u043A\u0443\u0440\u0441\\les68\\les67\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDE027D-EA11-4EF0-8A9B-37A065C91083}|les67\\les67.csproj|solutionrelative:les67\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\les68\\les67\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "les67\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\les68\\les67\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "les67\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:33:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\les68\\les67\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "les67\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\les68\\les67\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "les67\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:21:47.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\les68\\les67.Tests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "les67.Tests\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\ad0rfin\\Desktop\\C# \u041A\u0443\u0440\u0441\\les68\\les67.Tests\\HomeControllerTests.cs",
+              "RelativeToolTip": "les67.Tests\\HomeControllerTests.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:24:17.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
